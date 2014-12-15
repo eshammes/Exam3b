@@ -21,7 +21,7 @@
                 Evan Hammes<br />
                 <br />
             </div></div> 
-        <div style="border-style: solid; border-color: inherit; float: left; width: 33%; text-align:center; border-width:1px; height: 622px;">
+        <div style="border-style: solid; border-color: inherit; float: left; width: 33%; text-align:center; border-width:1px; height: 670px;">
         
    
 
@@ -72,7 +72,7 @@
             <br />
             <br />
         </div>
-    <div style="border-style: solid; border-color: inherit; float: left; width: 66%; border-width:1px; height: 622px;">
+    <div style="border-style: solid; border-color: inherit; float: left; width: 66%; border-width:1px; height: 670px;">
     <br />
         <br />
         &nbsp; <asp:Label ID="label_name" runat="server" Text="My name is:" meta:resourceKey="label_name"></asp:Label>
@@ -128,6 +128,9 @@
   
         <asp:HyperLink ID="github" runat="server" NavigateUrl="https://github.com/eshammes">Github</asp:HyperLink>
 
+        <br />
+        <br />
+        &nbsp;&nbsp;<asp:Button ID="return" runat="server" Text="Return" meta:resourceKey="Button1"/>
         <br />
         <br />
         <br />

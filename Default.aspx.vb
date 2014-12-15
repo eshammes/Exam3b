@@ -151,5 +151,6 @@ Partial Class _Default
         github.Visible = False
         money1.Visible = False
         [date].Visible = False
+        Language2.Visible = True
     End Sub
 End Class

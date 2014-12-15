@@ -156,4 +156,10 @@
   <data name="radio_female.Text" xml:space="preserve">
     <value>femenino</value>
   </data>
+  <data name="sdd.Text" xml:space="preserve">
+    <value>Diseño y Desarrollo de Software</value>
+  </data>
+  <data name="welcome.Text" xml:space="preserve">
+    <value>Bienvenido a MSCI:3300</value>
+  </data>
 </root>

@@ -156,4 +156,10 @@
   <data name="radio_female.Text" xml:space="preserve">
     <value>女</value>
   </data>
+  <data name="sdd.Text" xml:space="preserve">
+    <value>软件设计和开发</value>
+  </data>
+  <data name="welcome.Text" xml:space="preserve">
+    <value>欢迎访问摩根士丹利资本国际:3300</value>
+  </data>
 </root>

@@ -156,4 +156,10 @@
   <data name="radio_female.Text" xml:space="preserve">
     <value>أنثى</value>
   </data>
+  <data name="sdd.Text" xml:space="preserve">
+    <value>تصميم و تطوير البرامج</value>
+  </data>
+  <data name="welcome.Text" xml:space="preserve">
+    <value>مرحبا بك إلى إم إس سي آي</value>
+  </data>
 </root>
